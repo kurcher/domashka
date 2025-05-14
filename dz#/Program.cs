@@ -19,4 +19,4 @@ class Program
         Console.WriteLine("Кількість голосних: " + matrix.VowelCount);
     }
 }
-//Yurii Murai//
+//Yurii B-121-24-3-PI Murai//
