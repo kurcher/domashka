@@ -1,4 +1,4 @@
-﻿//Yurii Murai B-121-24-3-PI
+﻿//Yurii Murai B-121-24-3-PI Yurii Murai
 using System;
 
 namespace CharMatrixLibrary
@@ -86,3 +86,4 @@ namespace CharMatrixLibrary
         }
     }
 }
+//Yurii Murai//
