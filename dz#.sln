@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz#", "dz#\dz#.csproj", "{1AE88126-E614-420C-84CC-A01E424959B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharMatrixLib.cs", "CharMatrixLib.cs\CharMatrixLib.cs.csproj", "{E907FCF5-D6BA-4C10-95DB-E4930D47A258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE88126-E614-420C-84CC-A01E424959B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE88126-E614-420C-84CC-A01E424959B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE88126-E614-420C-84CC-A01E424959B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE88126-E614-420C-84CC-A01E424959B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E907FCF5-D6BA-4C10-95DB-E4930D47A258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E907FCF5-D6BA-4C10-95DB-E4930D47A258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E907FCF5-D6BA-4C10-95DB-E4930D47A258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E907FCF5-D6BA-4C10-95DB-E4930D47A258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA2991F-BB69-4E95-9A1E-E05C7A246404}
+	EndGlobalSection
+EndGlobal

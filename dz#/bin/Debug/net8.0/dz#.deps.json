@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dz#/1.0.0": {
+        "dependencies": {
+          "CharMatrixLib.cs": "1.0.0"
+        },
+        "runtime": {
+          "dz#.dll": {}
+        }
+      },
+      "CharMatrixLib.cs/1.0.0": {
+        "runtime": {
+          "CharMatrixLib.cs.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dz#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CharMatrixLib.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
