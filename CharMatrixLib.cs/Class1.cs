@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Yurii Murai B-121-24-3-PI
+using System;
 
 namespace CharMatrixLibrary
 {
